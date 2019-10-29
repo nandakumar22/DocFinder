@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449375670631",
+    "firebase_url": "https://docfinder-2b4b3.firebaseio.com",
+    "project_id": "docfinder-2b4b3",
+    "storage_bucket": "docfinder-2b4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449375670631:android:100f1e11406e8d00b0dfc2",
+        "android_client_info": {
+          "package_name": "com.docfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449375670631-dp5eubk56hi51n0tr4642cfg5bef68h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docfinder",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "449375670631-uh6ji21eiken5maffsb5iklmhd67gsaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jo_7ZO1-lTEgZva_BaULG3jJKtXTvO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449375670631-uh6ji21eiken5maffsb5iklmhd67gsaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
